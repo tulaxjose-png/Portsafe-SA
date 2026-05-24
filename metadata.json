@@ -1,0 +1,6 @@
+{
+  "name": "PortSafe, S.A.",
+  "description": "Plataforma avançada de gestão de stock, equipamentos de segurança (EPI/EPC), WMS e planeamento de encomendas para o setor marítimo-portuário em Moçambique com design liquid glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
